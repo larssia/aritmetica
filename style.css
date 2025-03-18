@@ -10,7 +10,7 @@ label{
     font-size: 28px;
 }
 
-input button{
+input, button{
     color: white;
     background-color: black;
     font-size: 28px;
