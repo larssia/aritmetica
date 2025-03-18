@@ -10,9 +10,10 @@ label{
     font-size: 28px;
 }
 
-input{
+input button{
     color: white;
     background-color: black;
     font-size: 28px;
     border-radius: 10px;
 }
+
